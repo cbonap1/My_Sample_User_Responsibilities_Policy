@@ -1,1 +1,2 @@
 # My_Sample_User_Responsibilities_Policy
+This sample User Responsibilities Policy has been crafted through research and development efforts. It reflects best practices, industry standards, and considerations relevant to information security and user responsibilities. It is intended to serve as a foundational resource sample for organizations seeking to establish their own user responsibilities policies.
